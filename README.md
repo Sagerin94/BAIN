@@ -1,7 +1,7 @@
 # BAIN Repository
 ## Repository für das Modul BAIN an der FHGR; FS24
 Autorin: Morena Sager  
-In Dateien in diesem Repo entstanden im Laufe des Moduls Bibliotheks- und Archivinformatik BAIN an der Fachhochschule Graubünden.  
+Die Dateien in diesem Repo entstanden im Laufe des Moduls Bibliotheks- und Archivinformatik BAIN an der Fachhochschule Graubünden.  
 Hauptbestandteil des Repositorys ist das Lerntagebuch, welches gleichzeitig die Funktion eines Leistungsnachweises für das Modul übernimmt.   
 Um das Lerntagebuch zu erstellen wurde folgende Anleitung verwendet, welche vom Dozenten bereitgestellt wurde:
 
