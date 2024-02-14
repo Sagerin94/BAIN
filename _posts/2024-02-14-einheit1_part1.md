@@ -14,8 +14,8 @@ Die meinen sind im [Einführungspost](https://sagerin94.github.io/Lerntagebuch_B
 
 Um die erarbeiteten Inhalte festzuhalten, werden wir für jede Lehreinheit ein "gemeinsames Dokument" in Form einer [HedgeDoc-Installation der GWDG](https://pad.gwdg.de/). Dabei handelt es sich um einen kollaborativen Markdown-Editor, welcher die Zusammenarbeit in Echtzeit ermöglicht. Man hat die Möglichkeit das File auf drei verschiedene Arten anzuzeigen. In der Bearbeitung sieht man den Markdown-Editor und kann das File verändern. Die Ansicht zeigt einem das mit Markdown formatierte Dokument. Die Splitscreen Ansicht (*Beides*) ermöglicht einem das simultane Bearbeiten und Anzeigen im Stil eines [WYSIWYG-Editors](https://de.wikipedia.org/wiki/WYSIWYG) in Echtzeit.
 
-![HedgeDoc Intro](/Lerntagebuch_BAIN/_posts/images/screenshot_hedgedoc.png)
-* Abb. 1: Echtzeit-Ansicht der HedgeDoc-Installation (Bildquelle: https://pad.gwdg.de/)
+![HedgeDoc Intro](../images/screenshot_hedgedoc.png)
+*Abb. 1: Echtzeit-Ansicht der HedgeDoc-Installation (Bildquelle: https://pad.gwdg.de/)*
 
 
 
