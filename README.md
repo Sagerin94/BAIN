@@ -3,7 +3,7 @@
 Autorin: Morena Sager  
 Die Dateien in diesem Repo entstanden im Laufe des Moduls Bibliotheks- und Archivinformatik BAIN an der Fachhochschule Graubünden.  
 Hauptbestandteil des Repositorys ist das Lerntagebuch, welches gleichzeitig die Funktion eines Leistungsnachweises für das Modul übernimmt.   
-Das Lerntagebuch ist über den Link https://sagerin94.github.io/BAIN/ verfügbar.  
+Das Lerntagebuch ist über den Link https://sagerin94.github.io/Lerntagebuch_BAIN/ verfügbar.  
 Um das Lerntagebuch zu erstellen wurde folgende Anleitung verwendet, welche vom Dozenten bereitgestellt wurde:
 
 ### Vorlage für ein Lerntagebuch mit GitHub Pages
