@@ -8,6 +8,7 @@ In diesem Beitrag geht es um die Inhalte des ersten Unterrichtsblocks vom Vormit
 ## Administratives
 
 Im Ersten Teil haben wir viele Informationen zum Modul selbst erhalten. Der Dozent hat uns die Inhalte dessen anhand der Modulbeschreibung aufgezeigt und die Organisation des Moduls sowie den Leistungsnachweis erklärt. Er hat sich uns vorgestellt und uns einen Einblick in seine bisherige Erfahrung gegeben, welche ihn erst dazu befähigt dieses Modul zu unterrichten. Im Anschluss hatten wir die Gelegenheit uns selbst kurz vorzustellen und unsere bisherigen Erfahrungen und unsere Erwartungen ans Modul wurden abgeholt und festgehalten.  
+<br>
 Die meinen sind im [Einführungspost](https://sagerin94.github.io/Lerntagebuch_BAIN/2024/02/14/einfuehrung.html) dieses Blogs nachzulesen. 
 
 ### Fileshare
@@ -28,7 +29,7 @@ Die Inhalte klingen grundsätzlich alle Interessant, ich glaube jedoch am Meiste
 
 Im zweiten Teil des Morgens wurden wir dazu aufgefordert ein User-Konto auf GitHub zu erstellen. Durch die Funktion der Codespaces wird uns ermöglicht, ohne grossen Aufwand, eine virtuelle Linux-Umgebung zu verwenden. In Vorbereitung für die Lektion am Nachmittag wurde uns umfassend erklärt, wie wir diese Codespaces öffnen können und wir wurden darauf hingewiesen, dass wir die Codespaces wieder Löschen sollen, wenn wir sie nicht weiter verwenden. Für neue Übungen ist es sowieso von Vorteil, mit einer neuen Umgebung zu starten, weil man so immer wieder auf einem sauberen Stand anfangen kann, ungeachtet dessen was man zuletzt ausprobiert und verändert hat.  
 
-Ein GitHub-Konto habe ich durch ein früheres Modul bereits besessen, so musste ich mich nur noch einloggen. Über den zur Verfügung gestellten Link können wir das [Repository für den Unterricht](https://github.com/felixlohmeier/bain-lc-unix-shell) aufrufen und wiederum darüber einen eigenen Codespace eröffnen. Wie mir die Arbeit damit gelingt wird im Post zum [[zweiten Teil der Einführung](https://sagerin94.github.io/Lerntagebuch_BAIN/2024/02/14/einheit1_part2.html) erläutert.
+Ein GitHub-Konto habe ich durch ein früheres Modul bereits besessen, so musste ich mich nur noch einloggen. Über den zur Verfügung gestellten Link können wir das [Repository für den Unterricht](https://github.com/felixlohmeier/bain-lc-unix-shell) aufrufen und wiederum darüber einen eigenen Codespace eröffnen. Wie mir die Arbeit damit gelingt wird im Post zum [zweiten Teil der Einführung](https://sagerin94.github.io/Lerntagebuch_BAIN/2024/02/14/einheit1_part2.html) erläutert.
 
 
 
