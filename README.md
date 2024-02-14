@@ -1,4 +1,11 @@
-# Vorlage für ein Lerntagebuch mit GitHub Pages
+# BAIN Repository
+## Repository für das Modul BAIN an der FHGR; FS24
+Autorin: Morena Sager  
+In Dateien in diesem Repo entstanden im Laufe des Moduls Bibliotheks- und Archivinformatik BAIN an der Fachhochschule Graubünden.  
+Hauptbestandteil des Repositorys ist das Lerntagebuch, welches gleichzeitig die Funktion eines Leistungsnachweises für das Modul übernimmt.   
+Um das Lerntagebuch zu erstellen wurde folgende Anleitung verwendet, welche vom Dozenten bereitgestellt wurde:
+
+### Vorlage für ein Lerntagebuch mit GitHub Pages
 
 Diese Vorlage kann verwendet werden, um ein Blog mit GitHub Pages für den Kurs [Bibliotheks- und Archivinformatik](https://github.com/felixlohmeier/bibliotheks-und-archivinformatik) zu erstellen.
 
