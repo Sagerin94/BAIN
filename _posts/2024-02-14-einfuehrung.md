@@ -3,6 +3,9 @@ title: "Wo bin ich gestartet?"
 date: 2024-02-14
 ---
 
+Dieser erste, einleitende Blogbeitrag dient dazu festzuhalten, welche Vorkenntnisse ich (nicht) besitze beim Start in das Modul Bibliotheks- und Archivinformatik (BAIN) am 14. Februar 2024. In den darauf folgenden Beiträgen werden dann die im Unterricht gelernten und behandelten Themen zusammengefasst. Dies dient einerseits dazu, die Thematiken direkt zu reflektieren und andererseits bilden diese Beiträge die Bewertungsgrundlage für den Leistungsnachweis des Moduls.
+
+
 # Meine Ausgangslage: 
 
 ## Praxiserfahrung
@@ -18,7 +21,7 @@ Mit GitHub kenne ich mich auch noch eher wenig aus, da wir bis jetzt primär mit
 ### Markdown
 
 Die Verwendung von Markdown ist für mich auch nicht ganz neu. Doch auch hier besitze ich nur einige wenige Grundkenntnisse.  
-Hier werde ich mir sicherlich ab und zu Hilfe holen in der [Markdown Dokumentation](https://www.markdownguide.org/basic-syntax/).  
+Deswegen werde ich mir sicherlich ab und zu Hilfe holen in der [Markdown Dokumentation](https://www.markdownguide.org/basic-syntax/).  
 
 
 # Erwartungen an den Kurs:  
