@@ -6,6 +6,4 @@ date: 2024-02-14
 Ich erwarte von diesem Kurs ...
 
 
-test test test
-
-Test 2 test2
+test um zu schauen ob die synchro mit git funktioniert
