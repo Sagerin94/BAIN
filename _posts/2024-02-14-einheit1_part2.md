@@ -16,3 +16,16 @@ In diesem Beitrag geht es um die Inhalte des zweiten Unterrichtsblocks vom Nachm
 ### Library Carpentry Lesson
 https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem.html
 
+
+
+## Git und GitHub
+
+
+### Erstellen der Blogbeiträge
+
+Ich habe mich dazu entschieden für die Erstellung der Blogbeiträge lokal mit Visual Studio Code zu arbeiten, so wie ich es mir aus anderen Projekten bereits gewöhnt bin. Durch eine lokale Kopie meines Repository auf GitHub kann ich die Versionsverwaltung mittels Git vornehmen und meine Änderungen im Anschluss direkt im Terminal des Editors auf den master zu pushen. Best Practice wäre es wohl, zuerst auf einem anderen Branch zu arbeiten und anschliessend in den master zu mergen. Da ich jedoch alleine auf diesem Repository arbeite und die vorgenommenen Änderungen auch direkt deployen möchte, spare ich mir diesen zusätzlichen Schritt. 
+
+![Screenshot Visual Studio Code](Lerntagebuch_BAIN\images\Screenshot_VSCode.jpg)
+*Abb. : Meine Arbeit an den Blogbeiträgen im Visual Studio Code mit Versionsverwaltung durch Git.*
+
+
