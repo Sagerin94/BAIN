@@ -7,14 +7,18 @@ In diesem Beitrag geht es um die Inhalte des zweiten Unterrichtsblocks vom Nachm
 
 ## Codespace und Unix-Shell
 
+Wie wir im Unterricht vom Vormittag bereits ausporbiert haben, verwenden wir an diesem Nachmittag eine, der die nötigen Dateien für die korrekte Bearbeitung der Nachfolgenden Übungen enthält. Abbildung 1 zeigt den aktiven Codespace.  
 
-### Linux Commands
-
+![Screenshot des zur Verfügung gestellten Codespaces auf GitHub](\Lerntagebuch_BAIN\images\Screenshot_codespace.jpg)
+*Abb. 1: Screenshot des zur Verfügung gestellten Codespaces auf GitHub*
 
 
 
 ### Library Carpentry Lesson
 https://librarycarpentry.org/lc-shell/02-navigating-the-filesystem.html
+
+### Linux Commands
+
 
 
 
