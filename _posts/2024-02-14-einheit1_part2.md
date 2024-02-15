@@ -29,9 +29,9 @@ Bei einer Versionsverwaltung handelt es sich um das Tracking und Managen von Än
 
 ### Erstellen der Blogbeiträge
 
-Ich habe mich dazu entschieden für die Erstellung der Blogbeiträge lokal mit Visual Studio Code zu arbeiten, so wie ich es mir aus anderen Projekten bereits gewöhnt bin. Durch eine lokale Kopie meines Repository auf GitHub kann ich die Versionsverwaltung mittels Git vornehmen und meine Änderungen im Anschluss direkt im Terminal des Editors auf den master zu pushen. Best Practice wäre es wohl, zuerst auf einem anderen Branch zu arbeiten und anschliessend in den master zu mergen. Da ich jedoch alleine auf diesem Repository arbeite und die vorgenommenen Änderungen auch direkt deployen möchte, spare ich mir diesen zusätzlichen Schritt. 
+Ich habe mich dazu entschieden für die Erstellung der Blogbeiträge lokal mit Visual Studio Code zu arbeiten, so wie ich es mir aus anderen Projekten bereits gewöhnt bin. Durch eine lokale Kopie meines Online-Repositorys auf GitHub, kann ich die Versionsverwaltung lokal mittels Git vornehmen und meine Änderungen im Anschluss direkt im Terminal des Editors auf den master pushen. Best Practice wäre es wohl, zuerst auf einem anderen Branch zu arbeiten und anschliessend in den master zu mergen. Da ich jedoch alleine auf diesem Repository arbeite und die vorgenommenen Änderungen auch direkt deployen möchte, spare ich mir diesen zusätzlichen Schritt. 
 
 ![Screenshot Visual Studio Code](\Lerntagebuch_BAIN\images\Screenshot_VSCode.jpg)
 *Abb. 3 : Meine Arbeit an den Blogbeiträgen im Visual Studio Code mit Versionsverwaltung durch Git.*
 
-(Bei der genaueren Betrachtung der Screenshots von VS Code und dem GitHub Codespace fällt mir auf, dass sich die Entwicklungsumgebungen sehr ähnlich sehen. Da Microsoft hinter beiden Produkten steht, ist das wohl nicht weiter verwunderlich)
+(Bei der genaueren Betrachtung der Screenshots von VS Code und dem GitHub Codespace fällt mir auf, dass sich die Entwicklungsumgebungen sehr ähnlich sehen. Da Microsoft hinter beiden Produkten steht, ist das wohl nicht weiter verwunderlich.)
