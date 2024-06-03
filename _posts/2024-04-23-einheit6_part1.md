@@ -30,8 +30,8 @@ Tipps: Vor einer Datenänderung (insbesondere in der Undo / Redo Ansicht) prüfe
 ![OpenRefine Titelzeile](\Lerntagebuch_BAIN\images\Screenshot_openrefine_aktiveFacette.jpg)  
 *Abb. 3: Titelzeile bei aktiver Facettierung Openrefine*
 
-Fingerübungen:
-Was ist die am häufigsten vergebene Lizenz? --> CC BY (954 Zeilen)
-Wieviele Artikel haben keine Lizenz? --> 6 Zeilen
+Fingerübungen:  
+Was ist die am häufigsten vergebene Lizenz? --> CC BY (954 Zeilen)  
+Wieviele Artikel haben keine Lizenz? --> 6 Zeilen  
 Warum erscheint MDPI AG zweimal und wie lässt sich das korrigieren? --> Der eine Treffer hat 2 Leerschläge dazwischen; editieren und 1 Leerschlag aus der Facette löschen.
 
