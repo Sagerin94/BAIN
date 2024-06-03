@@ -16,8 +16,26 @@ Hauptfunktionen von OpenRefine:
 - Clustering zur Erkennung von Namensgleichheiten
 - Reconciliation um Daten aus Wikidata abzurufen oder Daten an Wikidata zu spenden
 - Infinite undo / redo um die Datenänderungen zu protokollieren
-- Privacy speichert Daten nur lokal und werden nur Veröffentlicht wenn vom User gewünscht
+- speichert Daten nur lokal und werden nur Veröffentlicht wenn vom User gewünscht (Privacy)
 
 OpenRefine hat eine grosse, aktive Community, da die Software mal zu Google gehörte und damit eine grosse Prominenz erlangen konnte. Dadurch wird die Software auch nicht nur in der Bibliotheks- und Archivbranche benutzt, sondern auch in anderen Branchen, wobei Bibliotheken schon den grössten Anteil ausmachen.
 ![Wer benutzt OpenRefine](\Lerntagebuch_BAIN\images\Screenshot_openrefine_branchen.jpg)
-*Abb. 1: Nutzung von OpenRefine (Quelle: [Nutzungsstatistik](https://openrefine.org/blog/2022/06/28/2022-survey-results.html))*
+*Abb. 2: Nutzung von OpenRefine (Quelle: [Nutzungsstatistik](https://openrefine.org/blog/2022/06/28/2022-survey-results.html))*
+
+
+### Bearbeiten eines Übungsdatensatzes
+Über gitHub haben wir einen Codespace gestartet, über den wir OpenRefine benutzen (spart uns die lokale Installation der Software, wäre aber durchaus auch möglich). 
+
+Tipps: Vor einer Datenänderung (insbesondere in der Undo / Redo Ansicht) prüfen ob nicht noch eine Facette ausgewählt ist (zweifelsfrei in der Titelzeile erkennbar)
+![OpenRefine Titelzeile](\Lerntagebuch_BAIN\images\Screenshot_openrefine_aktiveFacette.jpg)
+*Abb. 3: Titelzeile bei aktiver Facettierung Openrefine*
+
+Fingerübungen:
+Was ist die am häufigsten vergebene Lizenz? --> CC BY (954 Zeilen)
+Wieviele Artikel haben keine Lizenz? --> 6 Zeilen
+Warum erscheint MDPI AG zweimal und wie lässt sich das korrigieren? --> Der eine Treffer hat 2 Leerschläge dazwischen; editieren und 1 Leerschlag aus der Facette löschen.
+
+
+
+
+
