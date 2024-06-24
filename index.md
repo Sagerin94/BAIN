@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch
+title: Lerntagebuch M.Sager - Modul BAIN
 ---
 
 ## Willkommen zu meinem Lerntagebuch
