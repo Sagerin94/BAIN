@@ -24,20 +24,24 @@ Der Prefix für den Import aus DSpace: --metadataPrefix=oai_dc
 ![Import Daten aus ArchivesSpace](\Lerntagebuch_BAIN\images\Screenshot_vufindharvest_archivesspace.jpg)  
 *Abb. 2: Erfolgreicher Datenimport aus ArchivesSpace*  
 
+Da ich diese Unterrichteinheit nicht live mitverfolgt habe, sondern die Inhalte selbstständig, mit Hilfe der Aufnahme erarbeite, bin ich froh, dass diese Übungen gut funktioniert hat. 
+
 ## Konvertierung
-Mit den vom Dozenten zur Verfügung gestellten Beispieldaten arbeiten wir nun weiter. Das Ziel der Übung soll es sein, die Daten aus den unterschiedlichen Datenformaten einheitlich in das Datenformat MARC21-XML zu konvertieren. Dieser Prozess wird in der Branche auch gerne als *Crosswalk* bezeichnet. Dazu gibt es Regeln welche definieren, wie die Elemente zugeordnet werden sollen (sog. Mapping). 
+Mit den heruntergeladenen Beispieldaten arbeiten wir nun weiter. Das Ziel der Übung soll es sein, die Daten aus den unterschiedlichen Datenformaten einheitlich in das Datenformat MARC21-XML zu konvertieren. Dieser Prozess wird in der Branche auch gerne als *Crosswalk* bezeichnet. Dazu gibt es Regeln welche definieren, wie die Elemente zugeordnet werden sollen (sog. Mapping). 
 
 Ein Beispiel für ein solches Mapping von der Library of Congress: 
 
 ![Mapping MARC to DC](\Lerntagebuch_BAIN\images\Screenshot_marc_dc_mapping.jpg)  
 *Abb. 3: Mapping für die Konventierung von MARC nach Dublin Core*  
-(Quelle: [Library of Congress](https://www.loc.gov/marc/marc2dc.html))
-
+(Quelle: [Library of Congress](https://www.loc.gov/marc/marc2dc.html))  
 
 ### MarcEdit
+MarcEdit ist eine kostenlos nutzbare Software für die Durchführung von Crosswalks. Gerade für die Arbeit mit MARC21 ist sie die meistgenutzte Software.
+Allerdings wird sie seit 1999 von einer Einzelperson gewartet und somit kann man nie recht wissen, wie lange das "gut geht" / wie lange diese Person das weiterzieht. 
+Das Best-Case Szenario wäre wohl, dass der Entwickler, bevor er mit der Wartung aufhört, die Lizenz anpasst, dass die Software Open Source weitergeführt und aktualisiert werden könnte. Denn Stand jetzt darf die Software nur unverändert benutzt werden.
 
+![MarcEdit License Agreement](\Lerntagebuch_BAIN\images\Screenshot_lizenz_marcedit.jpg)  
+*Abb. 4: Endnutzer Lizenzvereinbarung der Software MarcEdit*  
+(Quelle: [MarcEdit](https://marcedit.reeset.net/marcedit-end-user-license-agreement))  
 
-
-
-
-Da ich diese Unterrichteinheit nicht live mitverfolgt habe, sondern die Inhalte selbstständig, mit Hilfe der Aufnahme erarbeite, bin ich froh, dass die Übungen gut funktioniert haben. 
+Mit Hilfe von MarcEdit lässt sich jetzt bsp. die Umwandlung einer vorher heruntergeladenen EAD Datei relativ simpel vornehmen, da die Software die entsprechenden Mappings gespeichert hat und diese entsprechend durchführen kann. Respektive, die Anleitung dazu klingt relativ simpel und auch der Dozent hat das auf der Aufnahme ziemlich schnell durchführen können. Was mir jedoch auffällt, ist dass die Konvertierung nicht direkt von EAD in MARC21XML möglich zu sein scheint, sondern erst der Schritt über MARC gemacht werden muss. 
