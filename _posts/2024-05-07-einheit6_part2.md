@@ -45,3 +45,10 @@ Das Best-Case Szenario wäre wohl, dass der Entwickler, bevor er mit der Wartung
 (Quelle: [MarcEdit](https://marcedit.reeset.net/marcedit-end-user-license-agreement))  
 
 Mit Hilfe von MarcEdit lässt sich jetzt bsp. die Umwandlung einer vorher heruntergeladenen EAD Datei relativ simpel vornehmen, da die Software die entsprechenden Mappings gespeichert hat und diese entsprechend durchführen kann. Respektive, die Anleitung dazu klingt relativ simpel und auch der Dozent hat das auf der Aufnahme ziemlich schnell durchführen können. Was mir jedoch auffällt, ist dass die Konvertierung nicht direkt von EAD in MARC21XML möglich zu sein scheint, sondern erst der Schritt über MARC gemacht werden muss. 
+
+### ETL Prozess
+ETL steht für Extract, Transform und Load und bezeichnet einen Prozess zur Datenintegration, welcher Quell- und Zielsysteme miteinander verbindet. Der Begriff ist nicht nur in der Bibliotheks- und Archivbranche, sondern auch darüber hinaus in der IT gebräuchlich. Er besteht, wie der Name schon sagt, aus 3 Schritten:  
+1. Extraktion: Die Daten werden aus einer Quelle extrahiert (oder geharvestet)  
+2. Transformation: Die Daten werden in ein einheitliches Format konvertiert  
+3. Laden: Die einheitlich transformierten Daten werden in das Zielsystem überführt  
+(Quelle: [IT in Bibliotheken](https://it-in-bibliotheken.de/metadaten.html#etl-prozess))
