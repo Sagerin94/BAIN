@@ -14,7 +14,7 @@ Ein OPAC ist ein Online-Katalog, der Bibliotheksbenutzenden Zugang zu den physis
 ### Discovery-Systeme
 Durch die Verbreitung moderner Suchmaschinen und ihrer fortschrittlicherern Technologie sind klassische OPACs schnell obsolet geworden. Damit Bibliotheken weiterhin relevant bleiben können in der Bereitstellung von (digitalen) Informationsressourcen wurden die Discovery-Systeme entwickelt. Sie sollen den Nutzenden ermöglichen, nicht nur im Katalog einer Bibliothek zu suchen, sondern gleichzeitig auch lizenzierte Inhalte aus Datenbanken und Repositorien angezeigt zu bekommen (Quelle: [Discovery Systeme vs. OPAC](https://opus4.kobv.de/opus4-fhpotsdam/frontdoor/index/index/docId/2429)).  
 
-Weiterhin sollen bei der Suche in Discovery-Systemen die Suchergebnisse nach ihrer Relevanz beurteilt werden. Die Devise lautet hierbei nicht mehr "Exact Match", sondern "Best Match". So können Nutzende das Discovery-System auch ohne besondere Kenntnisse des Wissensbestands durchsuchen und erhalten eine wesentlich Grössere Trefferliste, da auch die Fehlertoleranz höher ist (Quelle: [OPAC vs. Discovery-System, Felix Lohmeier](https://felixlohmeier.gitbooks.io/kurs-bibliotheks-und-archivinformatik/content/kapitel-1/11-einfuhrung-ins-thema.html) )
+Weiterhin sollen bei der Suche in Discovery-Systemen die Suchergebnisse nach ihrer Relevanz beurteilt werden. Die Devise lautet hierbei nicht mehr "Exact Match", sondern "Best Match". So können Nutzende das Discovery-System auch ohne besondere Kenntnisse des Bestands durchsuchen und erhalten eine wesentlich Grössere Trefferliste, da auch die Fehlertoleranz höher ist (Quelle: [OPAC vs. Discovery-System, Felix Lohmeier](https://felixlohmeier.gitbooks.io/kurs-bibliotheks-und-archivinformatik/content/kapitel-1/11-einfuhrung-ins-thema.html) )
 
 ### Unterschiede
 Aus "Gwunder" habe ich dazu noch ChatGPT befragt und er gibt mir die folgenden Unterschiede zwischen einem OPAC und einem Discovery-System (Abb.1). Allerdings konnte er mir dazu keine wirklich brauchbare Quelle liefern. 
@@ -26,5 +26,10 @@ Aus "Gwunder" habe ich dazu noch ChatGPT befragt und er gibt mir die folgenden U
 VuFind ist eine Open-Source-Discovery-Software, die von Bibliotheken verwendet wird, um Nutzenden eine einheitliche und benutzerfreundliche Schnittstelle zum Durchsuchen und Auffinden von Ressourcen zu bieten. Dazu gehört unter anderem: das Durchsuchen von Bibliothekskatalogen, institutionellen Repositorien, Open-Access-Journalartikeln, digitalisierten Bibliotheksmaterialien. Dabei nutzt VuFind Apache Solr als Suchmaschine, um Daten zu indexieren und durchsuchbar zu machen (Quelle: [VuFind](https://vufind.org/vufind/about.html)).
 
 ## Solr
-
 Apache Solr ist eine hoch skalierbare, leistungsstarke Open-Source-Suchserver, der auf Apache Lucene basiert. Solr wird häufig für Volltextsuche, facettierte Navigation und Echtzeit-Indexierung eingesetzt. "The fundamental premise of Solr is simple. You give it a lot of information, then later you can ask it questions and find the piece of information you want" (Quelle: [Introduction to Solr](https://solr.apache.org/guide/solr/latest/getting-started/introduction.html)).
+
+### Vergleich Suche in VuFind und Solr
+Abb.2 zeigt den gleichen Suchbegriff "psychology" (gelbes Highlight) in VuFind und Solr. Auf den ersten Blick ist ersichtlich, dass VuFind ein intuitiveres GUI zur Verfügung stellt, dass selbst für Laien einfach zu benutzen sein sollte. Solr hingegen ist da etwas technischer unterwegs und stellt die Ergebnisse im JSON Format bereit. Das pinke Highlight zeigt jedoch, dass in beiden Oberflächen derselbe Titel gefunden wurde. 
+
+![Suche in VuFind vs. Solr ](\Lerntagebuch_BAIN\images\Screenshot_suche_vufind_solr.jpg)  
+*Abb. 2: Die Selbe Suchanfrage in VuFind und Solr*  
