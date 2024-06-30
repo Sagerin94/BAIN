@@ -34,5 +34,5 @@ Im nächsten Teil der Vorlesung betrachten wir die Beta-Version des Suchportals 
 *Abb. 5: Systemarchitektur des Suchportals der HAAB*  
 (Quelle: [Gemeinsames Dokument zu dieser Lehreinheit](https://pad.gwdg.de/5jn060c8RDC6WukTIuP5RQ#Beispiel-Suchportal-der-HAAB))  
 
-##Fazit
+## Fazit
 Dieser Themenblock hat mir enorm Spass gemacht. ich habe es genossen in meinem eigenen Tempo und ohne Gruppenarbeit mit VuFind herumzuspielen und habe das Gefühl ein Verständnis für die funktionsweise von VuFind erlangt zu haben. Das Ansehen der Konfigurationsdatei hat mich jedoch im ersten Moment wieder etwas überfordert. Es gäbe noch soviele Möglichkeiten, dort Änderungen vorzunehmen, die ich jetzt gar nich gross angesehen habe. So habe ich mich einfach daran orientiert was meine Kommiliton*innen bereits während des Unterrichts gemacht haben. Das kurze Beispiel der HAAB hat zum Schluss nochmal deutlich gemacht, dass zum Betrieb eines Discovery-Systems deutlich mehr nötig ist, als für den Betrieb eines einfachen WEB-OPACs. Und wie wichtig es ist, alle diese Schnittstellen zu entwickeln um die Kommunikation der unterschiedlichsten Systeme miteinander zu ermöglichen. 
