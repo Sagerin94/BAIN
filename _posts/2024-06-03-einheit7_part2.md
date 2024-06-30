@@ -27,3 +27,10 @@ Hier probiere ich auch kurz kleine Änderungen vorzunehmen. Ich ändere wieder d
 ![VuFind Konfiguration](\Lerntagebuch_BAIN\images\Screenshot_vufind_config.jpg)  
 *Abb. 4: Änderungen der Konfiguration von VuFind*  
 
+## Suchportal der HAAB
+Im nächsten Teil der Vorlesung betrachten wir die Beta-Version des Suchportals der Herzogin Anna Amalia Bibliothek (kurz HAAB), welches auch auf VuFind basiert. Für ihr Discovery-System benutzen sie keinen eigenen Suchindex, sondern benutzen den externen Solr von K10plus-Zentral, aus diesem sie lediglich die eigenen Daten herausfiltern und für die eigene Suche anbieten. Abbildung 5 zeigt einen Überblick über die Systemarchitektur des Suchportals der HAAB, aus dem ersichtlich wird, dass verschiedene Schnittstellen zur Betreibung des Systems notwendig sind.  
+
+![HAAB Systemarchitektur](\Lerntagebuch_BAINimages\Screenshot_HAAB_systemarchitektur.jpg)  
+*Abb. 5: Systemarchitektur des Suchportals der HAAB*  
+(Quelle: [Gemeinsames Dokument zu dieser Lehreinheit](https://pad.gwdg.de/5jn060c8RDC6WukTIuP5RQ#Beispiel-Suchportal-der-HAAB))  
+
