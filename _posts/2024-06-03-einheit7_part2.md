@@ -20,6 +20,6 @@ Gemeinsam mit der Aufzeichnung hab ich auch noch den Error beim Import der Archi
 
 ## VuFind Konfiguration
 Hier probiere ich auch kurz, kleine Änderungen vorzunehmen. Ich ändere wieder den Titel im Header des Browsertabs, sowie den Separator, ändere das Theme zu sandal und positioniere die sidebar wieder auf der rechten Seite. Ich habe die Änderungen in Abbildung 4 farbig markiert.  
-![VuFind Konfiguration](\Lerntagebuch_BAIN\images\Screenshot_vufind_importarchivesspace.jpg)  
+![VuFind Konfiguration](\Lerntagebuch_BAIN\images\Screenshot_vufind_config.jpg)  
 *Abb. 4: Änderungen der Konfiguration von VuFind*  
 
