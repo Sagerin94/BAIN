@@ -3,7 +3,7 @@ title: "Einheit 07B: Suchmaschinen und Discovery Systeme - Teil 2"
 date: 2024-06-03
 ---
 
-In diesem Beitrag geht es um die restlichen Inhalte des siebten Unterrichtsblocks vom Morgen des 3.Juni (08:30 - 12:00). 
+In diesem Beitrag geht es um die restlichen Inhalte des siebten Unterrichtsblocks vom Morgen des 3.Juni (08:15-11:50). 
 
 ## VuFind Datenintegration
 Diese Gruppenarbeit habe ich während der Vorlesung zwar live mitbekommen, doch um mein eigenes Verständnis dafür zu sichern, führe ich sie selbst noch einmal durch mit Hilfe der Aufzeichnung. Glückicherweise scheint der Server über den Cloudhoster noch zu laufen, damit mir dies auch möglich ist. Abbildung 1 zeigt, wie ich die Institution in der properties-Datei benannt habe, und den erfolgreichen Datenimport in VuFind.  
